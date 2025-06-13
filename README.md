@@ -51,7 +51,7 @@ A clean, responsive admission form built using **HTML**, **CSS**, **JavaScript**
 
 ## 📸 Screenshot
 
-![Form Screenshot](Screenshot.png)
+![Form Screenshot](NewScreenshot.png)
 
 
 ## 🙋 Author
